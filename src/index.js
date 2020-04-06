@@ -4,7 +4,7 @@
  * @returns {number[][]}
  */
 const findNodesWithZeroAndOneParents = (parentChildPairs) => {
-  
+
 }
 
 module.exports = findNodesWithZeroAndOneParents;
